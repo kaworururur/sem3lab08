@@ -1,0 +1,14 @@
+C:\Users\24\source\repos\lab08\lab08\bin\Debug\net8.0\lab08.exe
+C:\Users\24\source\repos\lab08\lab08\bin\Debug\net8.0\lab08.deps.json
+C:\Users\24\source\repos\lab08\lab08\bin\Debug\net8.0\lab08.runtimeconfig.json
+C:\Users\24\source\repos\lab08\lab08\bin\Debug\net8.0\lab08.dll
+C:\Users\24\source\repos\lab08\lab08\bin\Debug\net8.0\lab08.pdb
+C:\Users\24\source\repos\lab08\lab08\obj\Debug\net8.0\lab08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24\source\repos\lab08\lab08\obj\Debug\net8.0\lab08.AssemblyInfoInputs.cache
+C:\Users\24\source\repos\lab08\lab08\obj\Debug\net8.0\lab08.AssemblyInfo.cs
+C:\Users\24\source\repos\lab08\lab08\obj\Debug\net8.0\lab08.csproj.CoreCompileInputs.cache
+C:\Users\24\source\repos\lab08\lab08\obj\Debug\net8.0\lab08.dll
+C:\Users\24\source\repos\lab08\lab08\obj\Debug\net8.0\refint\lab08.dll
+C:\Users\24\source\repos\lab08\lab08\obj\Debug\net8.0\lab08.pdb
+C:\Users\24\source\repos\lab08\lab08\obj\Debug\net8.0\lab08.genruntimeconfig.cache
+C:\Users\24\source\repos\lab08\lab08\obj\Debug\net8.0\ref\lab08.dll
